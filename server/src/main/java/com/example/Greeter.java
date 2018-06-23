@@ -13,7 +13,6 @@ public class Greeter {
   }
   /**
    * This is a constructor and reurn 
-	
    */
   public final String greet(final String someone) {
     return String.format("Hello, %s!", someone);
